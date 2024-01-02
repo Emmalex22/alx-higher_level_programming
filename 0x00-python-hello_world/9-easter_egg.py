@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import this;print()
+print("The Zen of Python\n", __import__('this').s)
