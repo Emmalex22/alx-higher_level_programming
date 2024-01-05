@@ -10,4 +10,5 @@ if __name__ == "__main__":
     print("Addition is:", answer_add)
     print("Subtraction is:", answer_subtract)
     print("Multiplication is:", answer_multiply)
-    print("Divisi is:", answer_divide)
+    print("Division is:", answer_divide)
+    
