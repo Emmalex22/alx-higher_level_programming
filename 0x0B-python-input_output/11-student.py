@@ -34,7 +34,7 @@ class Student:
         """Replace all attributes of the Students.
 
         Args:
-        json (dict): The key/value pairs to replace attributes with.
+            json (dict): The key/value pairs to replace attributes with.
         """
         for k, v in json.items():
             setattr(self, k, v)
